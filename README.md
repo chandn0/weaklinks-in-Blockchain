@@ -6,3 +6,4 @@ following are the goals of the project
 
 
 Trello link https://trello.com/b/J7TE2ZSR/todo
+Discord link https://discord.gg/7EZ5yt3k
