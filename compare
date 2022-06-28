@@ -1,0 +1,11 @@
+# # The right way to compare blockchains
+Most comparisons of blockchains are based on the gas fee, and TPS at the given state, and the problem with this comparison is we are looking at blockchains as static systems but they are not, they are continuously been updated by the core developer.
+
+So the future states of any blockchain depend on core developers.
+Core developers are the ones that design the core protocol of any blockchain, which in turn affects all the users, miners, and DAPPS developers of that blockchain.
+So the better way to compare the blockchains is to compare their following process.
+
+1.Governance process. 
+2.The number of core developers. 
+3.Incoming rate of core developers. 
+4.Amount of time taken for a good proposal to change from the idea stage to a change to the platform.
